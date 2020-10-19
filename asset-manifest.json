@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/follyjohn.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/follyjohn.github.io/static/js/main.bc426396.chunk.js",
-    "main.js.map": "/follyjohn.github.io/static/js/main.bc426396.chunk.js.map",
+    "main.js": "/follyjohn.github.io/static/js/main.17706b34.chunk.js",
+    "main.js.map": "/follyjohn.github.io/static/js/main.17706b34.chunk.js.map",
     "runtime-main.js": "/follyjohn.github.io/static/js/runtime-main.c452d4ec.js",
     "runtime-main.js.map": "/follyjohn.github.io/static/js/runtime-main.c452d4ec.js.map",
-    "static/js/2.f453105c.chunk.js": "/follyjohn.github.io/static/js/2.f453105c.chunk.js",
-    "static/js/2.f453105c.chunk.js.map": "/follyjohn.github.io/static/js/2.f453105c.chunk.js.map",
+    "static/js/2.64b15ca4.chunk.js": "/follyjohn.github.io/static/js/2.64b15ca4.chunk.js",
+    "static/js/2.64b15ca4.chunk.js.map": "/follyjohn.github.io/static/js/2.64b15ca4.chunk.js.map",
     "index.html": "/follyjohn.github.io/index.html",
-    "precache-manifest.a2816c162e5f7f2d35ad0d810efc8939.js": "/follyjohn.github.io/precache-manifest.a2816c162e5f7f2d35ad0d810efc8939.js",
+    "precache-manifest.6fe6352920b500ff52e6c839c4a92fd6.js": "/follyjohn.github.io/precache-manifest.6fe6352920b500ff52e6c839c4a92fd6.js",
     "service-worker.js": "/follyjohn.github.io/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/follyjohn.github.io/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.f453105c.chunk.js.LICENSE.txt": "/follyjohn.github.io/static/js/2.f453105c.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/follyjohn.github.io/static/media/logo.5d5d9eef.svg"
+    "static/js/2.64b15ca4.chunk.js.LICENSE.txt": "/follyjohn.github.io/static/js/2.64b15ca4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c452d4ec.js",
-    "static/js/2.f453105c.chunk.js",
+    "static/js/2.64b15ca4.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.bc426396.chunk.js"
+    "static/js/main.17706b34.chunk.js"
   ]
 }
