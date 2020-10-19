@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/follyjohn.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/follyjohn.github.io/static/js/main.bc426396.chunk.js",
+    "main.js.map": "/follyjohn.github.io/static/js/main.bc426396.chunk.js.map",
+    "runtime-main.js": "/follyjohn.github.io/static/js/runtime-main.c452d4ec.js",
+    "runtime-main.js.map": "/follyjohn.github.io/static/js/runtime-main.c452d4ec.js.map",
+    "static/js/2.f453105c.chunk.js": "/follyjohn.github.io/static/js/2.f453105c.chunk.js",
+    "static/js/2.f453105c.chunk.js.map": "/follyjohn.github.io/static/js/2.f453105c.chunk.js.map",
+    "index.html": "/follyjohn.github.io/index.html",
+    "precache-manifest.a2816c162e5f7f2d35ad0d810efc8939.js": "/follyjohn.github.io/precache-manifest.a2816c162e5f7f2d35ad0d810efc8939.js",
+    "service-worker.js": "/follyjohn.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/follyjohn.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f453105c.chunk.js.LICENSE.txt": "/follyjohn.github.io/static/js/2.f453105c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/follyjohn.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c452d4ec.js",
+    "static/js/2.f453105c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.bc426396.chunk.js"
+  ]
+}
