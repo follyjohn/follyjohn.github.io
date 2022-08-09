@@ -1,0 +1,38 @@
+#intro{
+	background-color: #333646;
+	.portfolio-intro-wrapper{
+		padding: 0rem 14rem 5rem 14rem;
+	}
+
+	.portfolio-owner-name{
+		font-size: 6rem;
+		font-weight: 700;
+		color: #ffffff;
+		line-height: 0.9em;
+	}
+
+	.portfolio-owner-name::after{
+		content: "";
+		display: block;
+		margin-left: 0.5rem;
+		width: 10%;
+		height: 0.6rem;
+		background-color: #FFAF29;
+		margin-top: 2rem;
+	}
+
+	.portfolio-owner-links{
+		margin-top: 6rem;
+		padding: 0.5rem;
+		a{
+			margin-right: 1.5rem;
+
+		}
+	}
+
+	.p2{
+		font-size: 2rem;
+		font-weight: 500;
+		color: #ffffff;
+	}
+}
