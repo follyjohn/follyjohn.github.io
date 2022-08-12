@@ -1,0 +1,47 @@
+#header {
+	.navbar {
+		padding: 5rem 15rem 5rem 15rem;
+		ul {
+			flex-direction: row !important;
+			display: flex !important;
+			list-style-type: style none !important;
+
+			li {
+				margin-left: 2rem;
+			}
+		}
+
+		.navbar-brand {
+			font-size: 3rem;
+			font-weight: bold;
+			color: #ffffff;
+		}
+
+		.nav-link {
+			font-weight: 500;
+			font-size: 1.75rem;
+			color: #848181;
+		}
+
+		.nav-item .active {
+			color: #ffffff;
+		}
+		.nav-item {
+			.active::after {
+				transform: translateX(-50%);
+				border-radius: 100%;
+				display: flex;
+				margin: auto;
+				margin-top: 0.3rem;
+				background: #FFAF29;
+				height: 8px;
+				content: "";
+				width: 8px;
+			}
+		}
+	}
+
+	#brand-dot {
+		color: #FFAF29;
+	}
+}
