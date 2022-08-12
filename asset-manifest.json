@@ -1,22 +1,15 @@
 {
   "files": {
-    "main.css": "/follyjohn.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/follyjohn.github.io/static/js/main.17706b34.chunk.js",
-    "main.js.map": "/follyjohn.github.io/static/js/main.17706b34.chunk.js.map",
-    "runtime-main.js": "/follyjohn.github.io/static/js/runtime-main.c452d4ec.js",
-    "runtime-main.js.map": "/follyjohn.github.io/static/js/runtime-main.c452d4ec.js.map",
-    "static/js/2.64b15ca4.chunk.js": "/follyjohn.github.io/static/js/2.64b15ca4.chunk.js",
-    "static/js/2.64b15ca4.chunk.js.map": "/follyjohn.github.io/static/js/2.64b15ca4.chunk.js.map",
-    "index.html": "/follyjohn.github.io/index.html",
-    "precache-manifest.6fe6352920b500ff52e6c839c4a92fd6.js": "/follyjohn.github.io/precache-manifest.6fe6352920b500ff52e6c839c4a92fd6.js",
-    "service-worker.js": "/follyjohn.github.io/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/follyjohn.github.io/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.64b15ca4.chunk.js.LICENSE.txt": "/follyjohn.github.io/static/js/2.64b15ca4.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.1e1338d2.css",
+    "main.js": "/static/js/main.e7e641d7.js",
+    "static/js/787.48e86680.chunk.js": "/static/js/787.48e86680.chunk.js",
+    "index.html": "/index.html",
+    "main.1e1338d2.css.map": "/static/css/main.1e1338d2.css.map",
+    "main.e7e641d7.js.map": "/static/js/main.e7e641d7.js.map",
+    "787.48e86680.chunk.js.map": "/static/js/787.48e86680.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.c452d4ec.js",
-    "static/js/2.64b15ca4.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.17706b34.chunk.js"
+    "static/css/main.1e1338d2.css",
+    "static/js/main.e7e641d7.js"
   ]
 }
